@@ -40,7 +40,7 @@ Clone o repositório:
 
 git clone <https://github.com/TDSPA1/gs-front-salvae>
 
-cd salvae
+depois de cd salvae
 
 Instale as dependências:
 npm install
