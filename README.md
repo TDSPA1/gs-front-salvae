@@ -68,7 +68,7 @@ Renato Kenji - RM559810
 
 ## Link do video: https://www.youtube.com/watch?v=UE-QyXw8DFw
 
-## Link do Vercel:
+## Link do Vercel: https://gs-front-salvae-git-main-tdspa1s-projects.vercel.app
 
 ## Contato: [trabalhotdspa@hotmail.com]
 
