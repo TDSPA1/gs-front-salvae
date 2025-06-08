@@ -4,25 +4,40 @@
 ## 📁 Estrutura do Projeto
 src/
 ├── app/
+
 | ├── FAQ/ # Página de FAQ para dúvidas frequentes
+
 | ├── Instrução/ # Página para instrução de Emergências
+
 │ ├── meteorologia/ # Página com previsão do tempo
+
 │ ├── noticias/ # Página de notícias
+
 │ ├── reporte/ # Página de formulário para reportar incidentes
+
 │ ├── sobre/ # Informações sobre o sistema
+
 │ ├── globals.css # Estilos globais
+
 │ ├── layout.tsx # Layout base da aplicação
+
 │ └── page.tsx # Página inicial
+
 ├── components/
+
 │ ├── footer.tsx # Rodapé
+
 │ ├── header.tsx # Cabeçalho com menu de navegação
+
 │ ├── IncidentForm.tsx # Formulário reutilizável de incidentes
+
 │ ├── MapClient.tsx # Componente de mapa com rotas
+
 │ └── painel.tsx # Painel de informações
 
 Como instalar e rodar o projeto
 Clone o repositório:
-git clone <link do github>
+git clone <https://github.com/TDSPA1/gs-front-salvae>
 cd salvae
 
 Instale as dependências:
