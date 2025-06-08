@@ -37,7 +37,9 @@ src/
 
 Como instalar e rodar o projeto
 Clone o repositório:
+
 git clone <https://github.com/TDSPA1/gs-front-salvae>
+
 cd salvae
 
 Instale as dependências:
